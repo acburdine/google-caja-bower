@@ -1,0 +1,10 @@
+{
+  "description": "Google Caja HTML Sanitizer",
+  "homepage": "https://github.com/minrk/google-caja-bower",
+  "keywords": [
+    "sanitization"
+  ],
+  "license": "Apache 2.0",
+  "name": "google-caja-bower",
+  "version": "6011.0.0"
+}
